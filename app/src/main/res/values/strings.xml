@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="strVisibility">Visibility: </string>
+    <string name="strHumidity">Humidity: </string>
+    <string name="strWind_speed">Wind Speed: </string>
+    <string name="strMax_temprature">Max Temprature : </string>
+    <string name="strMinimum_temprature">Minimum Temprature: </string>
+    <string name="strWeather">Weather: </string>
+    <string name="strLongitude">Longitude: </string>
+    <string name="strLatitude">Latitude: </string>
+    <string name="str_enter_latitude">Enter Latitude</string>
+    <string name="str_enter_longitude">Enter Longitude</string>
+</resources>
