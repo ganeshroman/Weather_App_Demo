@@ -196,7 +196,9 @@
             android:src="@drawable/ic_launcher_background"
             android:layout_margin="10dp"
             android:id="@+id/img"
-            android:contentDescription="@string/app_name" />
+            android:contentDescription="@string/app_name"
+            android:visibility="gone"
+            />
 
 
 
