@@ -40,12 +40,41 @@
 
 ```
 {
-        "id": 3291839,
-        "name": "Daevika Pilla Jr.",
-        "email": "jr_daevika_pilla@feeney-satterfield.test",
-        "gender": "female",
-        "status": "active"
-    }
+    "coord": {
+        "lon": 10.99,
+        "lat": 44.34
+    },
+    "weather": [
+        {
+            "id": 500,
+            "main": "Rain",
+            "description": "light rain",
+            "icon": "10d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 296.02,
+        "feels_like": 296.22,
+        "temp_min": 290.9,
+        "temp_max": 297.64,
+        "pressure": 1011,
+        "humidity": 71,
+        "sea_level": 1011,
+        "grnd_level": 928
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.16,
+        "deg": 45,
+        "gust": 1.15
+    },
+    
+    "timezone": 7200,
+    "id": 3163858,
+    "name": "Zocca",
+    "cod": 200
+}
 
 ```
 
