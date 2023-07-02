@@ -1,6 +1,12 @@
 # Weather App Demo
 
 
+
+https://api.openweathermap.org/data/2.5/weather?lat=44.34&lon=10.99&appid={API key}
+
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+
 1. Create a browser or native-app-based application to serve as a basic weather app.
 2. Search Screen
 - a. Allow customers to enter a US city
