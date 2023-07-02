@@ -50,13 +50,22 @@
 ```
 
 ```
-data class User (
-    val id:Long,
-    val name:String,
-    val email:String,
-    val gender:String,
-    val status:String
-)
+data class Weather (
+    val coord: Coord,
+    val weather: List<WeatherElement>,
+    val base: String,
+    val main: Main,
+    val visibility: Long,
+    val wind: Wind,
+    val rain: Rain,
+    val clouds: Clouds,
+    val dt: Long,
+    val sys: Sys,
+    val timezone: Long,
+    val id: Long,
+    val name: String,
+    val cod: Long
+) 
 
 ```
 
