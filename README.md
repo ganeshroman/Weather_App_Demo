@@ -12,7 +12,7 @@
 - b. Call the openweathermap.org API and display the information you think a user would be interested in seeing. Be sure to has the app download and display a weather icon.
 - c. Have image cache if needed
 3. Auto-load the last city searched upon app launch.
-4. Ask the User for location access, If the User gives permission to access the location, then retrieve weather data by default
+4. Ask the User for location access, If the User gives permission to access the location, then retrieve weather data by default.
 
 
 ### Technology Used
